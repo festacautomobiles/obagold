@@ -36,6 +36,7 @@ nav {
     margin-left: 30px;
     margin-top: -230px;
     margin-bottom: 5px;
+    
 
 }
 
@@ -50,13 +51,17 @@ nav ul li {
     background-color: black;
     margin-right:50px;
     margin-left: -20px;
-    margin-top: 5px;
+    margin-top: 10px;
+   color: gold;
+}
+nav ul li a {
+    color: gold;
 }
 
 .price{
     margin-top: 350px;
     align-items: center;
-    color: blue;
+    color: black;
     margin-left: 50px;
     font-size: 30px;
 
@@ -67,7 +72,7 @@ button {
     height: 30px;
     border: none;
     border-radius: 10px;
-    background-color: green;
-    color: white;
+    background-color: gold;
+    color: black;
     font-size: 20px;
 }
